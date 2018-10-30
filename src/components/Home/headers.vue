@@ -32,7 +32,7 @@ export default {
   justify-content: space-between
 }
 span{
-  width:50px;
+  width:90px;
   line-height: 2;
   border:1px solid #fff;
   text-align: center;
