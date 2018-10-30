@@ -1,6 +1,6 @@
 <template>
   <div class="top">
-    <span>惠答</span>
+    <span>思学倾听</span>
     <i class="el-icon-tickets" @click="bus "></i>
   </div>
 </template>
